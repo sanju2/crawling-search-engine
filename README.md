@@ -1,6 +1,7 @@
 # PHP Composer package for crawling search engine result
 
-## Use This Blog for creating composer package
+## Use This My Blog for creating composer package
+[blog for composer package creation](https://lsanjeewa947.medium.com/building-php-composer-package-83b407fc3183)
 
 ## In this code we want firstly install composer packages
 $ composer require guzzlehttp/guzzle
